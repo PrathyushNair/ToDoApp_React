@@ -1,0 +1,35 @@
+.indidiv{
+    
+    width:100%;
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:auto;
+    border-radius: 100px;
+    padding-top:20px; 
+    padding-bottom:20px; 
+    color:white;
+    background-color: #00819d;
+}
+.inputt{
+    width:35%;
+    margin:auto;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius:20px ;
+    height:50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    border:2px solid #00819d;
+
+}
+.bt{
+    height:50px;
+    border-radius:  50%;
+    border:2px solid #00819d;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bt:hover{
+    color:white;
+    background-color:#00819d ;
+}
